@@ -12,14 +12,10 @@ enum class operation_types{
 
 	DETERMINANT,
 	FROBENIUS_NORM,
-	INVERSE,
 	TRACE,
+
+	INVERSE,
 	TRANSPOSE
 };
-
-
-
-
-
 
 #endif

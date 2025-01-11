@@ -7,6 +7,7 @@
 #include "kernel_manager.hpp"
 #include "operation_types.hpp"
 #include <cassert>
+#include <vector>
 
 class OperationManager{
 	public:
