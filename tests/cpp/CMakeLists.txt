@@ -15,6 +15,7 @@ target_include_directories(calculator_tests
 target_link_libraries(test_operations
     PRIVATE
         gtest_main
+        gmock_main
 )
 
 # Enable testing
