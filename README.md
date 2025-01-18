@@ -12,7 +12,7 @@ A C/C++ based OpenCL library which utilizes the power of parallel computing to p
 
 ## Installation
 
-Clear steps to install your project. Include both simple and advanced installation methods:
+
 
 ```bash
 # Simple installation
